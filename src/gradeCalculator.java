@@ -27,7 +27,7 @@ public class gradeCalculator {
 
         }
         else if(avg>=60&&avg<70){
-            System.out.println("Grade F");
+            System.out.println("Grade D");
         }
         else if (avg>=50&&avg<60){
             System.out.println("Grade E");
